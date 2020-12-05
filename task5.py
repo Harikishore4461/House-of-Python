@@ -1,7 +1,7 @@
 def myfun():
     x=int(input("enter value of x"))
-    y=int(input("enter value of y"))
-    print(f"Addition of two numbers is {x + y}")
+    y=int(input("enter  tvalue of y"))
+    print(f"Addition ofwo numbers is {x + y}")
     print(f"Subtraction of two numbers is {x - y}")
     print(f"Division of two numbers is {x / y}")
     print(f"Multiplication of two numbers is {x * y}")
